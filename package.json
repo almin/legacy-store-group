@@ -12,7 +12,7 @@
   "name": "@almin/legacy-store-group",
   "version": "1.0.0",
   "description": "Almin old StoreGroup and QueuedStoreGroup implementation.",
-  "main": "lib/legacy-store-group.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "npm run build && mocha test/",
     "build": "cross-env NODE_ENV=production tsc -p .",
