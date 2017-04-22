@@ -7,7 +7,7 @@ Almin *old* StoreGroup and QueuedStoreGroup implementation.
 
 ## :memo: Migration
 
-These stores are deprecated.
+These StoreGroups has been deprecated.
 
 - [Main StoreGroup · Issue #141 · almin/almin](https://github.com/almin/almin/issues/141 "Main StoreGroup · Issue #141 · almin/almin")
 
