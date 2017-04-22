@@ -1,4 +1,4 @@
-# @almin/legacy-store-group
+# @almin/legacy-store-group [![Build Status](https://travis-ci.org/almin/legacy-store-group.svg?branch=master)](https://travis-ci.org/almin/legacy-store-group)
 
 Almin *old* StoreGroup and QueuedStoreGroup implementation.
 
